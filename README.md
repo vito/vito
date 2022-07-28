@@ -4,7 +4,7 @@ I like languages, and making things, and making languages which make things.
 
 Currently:
 
-* 🔊 [Bass](https://github.com/vito/bass) ([www](https://bass-lang.org)), a Lisp for building reproducible artifacts.
+* 🔊 [Bass](https://github.com/vito/bass) ([www](https://bass-lang.org)), a scripting language for reproducible builds and glue code. Replaces YAML, Docker, Bash.
 * 📖 [Booklit](https://github.com/vito/booklit) ([www](https://booklit.page)), a documentation authoring system I use for all my projects.
 
 Previously:
