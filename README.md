@@ -1,6 +1,6 @@
 hi!
 
-I like languages, and making things, and making languages which make things.
+I like languages, and making things, and making languages that make things.
 
 Currently:
 
