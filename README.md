@@ -4,8 +4,11 @@ I like languages, and making things, and making languages that make things.
 
 Currently:
 
-* 🔊 [Bass](https://github.com/vito/bass) ([www](https://bass-lang.org)), a scripting language for reproducible builds and glue code. Replaces YAML, Dockerfiles, and Bash.
-* 📖 [Booklit](https://github.com/vito/booklit) ([www](https://booklit.page)), a documentation authoring system I use for all my projects.
+* 🔊 [Bass] ([www](https://bass-lang.org)), a scripting language for reproducible builds and glue code. Replaces YAML, Dockerfiles, and Bash.
+* 📖 [Booklit] ([www](https://booklit.page)), a documentation authoring system I use for all my projects.
+* 💥 [Dang], a scripting language for GraphQL and Dagger.
+* 🖌️ [Tuist] ([www](https://vito.github.io/tuist/)), a component-based TUI framework inspired by [Go-app].
+* 📺 [Midterm], a virtual terminal emulator designed to handle a ton of output (e.g. pretty logs).
 
 Previously:
 
@@ -33,3 +36,9 @@ Previously:
 [DarcsDen]: https://github.com/vito/darcsden
 [Armin]: https://github.com/mitsuhiko
 [Rubinius]: https://github.com/rubinius/rubinius
+[Go-app]: https://go-app.dev/
+[Midterm]: https://github.com/vito/midterm
+[Tuist]: https://github.com/vito/tuist
+[Dang]: https://github.com/vito/dang
+[Booklit]: https://github.com/vito/booklit
+[Bass]: https://github.com/vito/bass
